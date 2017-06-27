@@ -15,4 +15,33 @@
 
 <br/><br/>
 
-### ![사진](https://github.com/leedongjoon121/ImageFilter/blob/master/total/img_data/dongjoon_js.JPG?raw=true)
+## 시스템 구성도
+
+- 총 두대의 Rasbperry Pi 기기를 통해(잠금기기와 탐지기기) 금고를 구성하고 모바일로 금고를 제어하며 모든 데이터는 파이어베이스에 저장 
+
+### ![사진](https://github.com/leedongjoon121/IOT_SmartLock/blob/master/Document/img/system_arc.PNG?raw=true)
+
+<br/>
+
+## 잠금기기 Activity Diagram
+### ![사진](https://github.com/leedongjoon121/IOT_SmartLock/blob/master/Document/img/activity_lock.PNG?raw=true)
+
+<br/>
+
+## 탐지기기 Activity Diagram
+### ![사진](https://github.com/leedongjoon121/IOT_SmartLock/blob/master/Document/img/activity_detect.PNG?raw=true)
+
+<br/>
+
+## 안드로이드 Mobile Activity Diagram
+### ![사진](https://github.com/leedongjoon121/IOT_SmartLock/blob/master/Document/img/activity_mobile.PNG?raw=true)
+
+<br/>
+
+## Firebase  Activity Diagram
+### ![사진](https://github.com/leedongjoon121/IOT_SmartLock/blob/master/Document/img/activity_cloud.PNG?raw=true)
+
+
+
+
+
