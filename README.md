@@ -10,7 +10,11 @@
 ### univ : gachon university
 ### email : ehdwns46@naver.com
 ### day of production : 2017.05.15~ 2016.06.21
-### coworker : SeungJoolee 
+
+<br/>
+
+### coworker :  <a href = "https://github.com/poketred12">SeungJoolee</a> 
+
 <br/>
 
 <hr/>
