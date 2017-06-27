@@ -11,6 +11,7 @@
 <br/>
 
 <hr/>
+
 ## Raspberry Pi 3 를 이용한 Embedded Project
 ## OS : Rasbian Linux
 ## Node js Server + Android App 을 통한 스마트 금고 제어
@@ -22,6 +23,23 @@
 - 총 두대의 Rasbperry Pi 기기를 통해(잠금기기와 탐지기기) 금고를 구성하고 모바일로 금고를 제어하며 모든 데이터는 파이어베이스에 저장 
 
 ### ![사진](https://github.com/leedongjoon121/IOT_SmartLock/blob/master/Document/img/system_arc.PNG?raw=true)
+
+<br/>
+
+## 스마트금고 외관1
+### ![사진](https://github.com/leedongjoon121/IOT_SmartLock/blob/master/Document/img/lock1.PNG?raw=true)
+
+
+<br/>
+
+## 스마트금고 외관2
+### ![사진](https://github.com/leedongjoon121/IOT_SmartLock/blob/master/Document/img/lock2.PNG?raw=true)
+
+
+<br/>
+
+## 스마트금고 외관3
+### ![사진](https://github.com/leedongjoon121/IOT_SmartLock/blob/master/Document/img/lock3.PNG?raw=true)
 
 <br/>
 
