@@ -1,4 +1,5 @@
-# Javascript wiring-pi Api 를 이용한 IOT Embedded Smart Lock Project
+# Javascript wiring-pi Api 를 이용한 
+# IOT Embedded Smart Lock Project
 ## Producer Introduce 
 ### name :  Dongjoonlee 
 ### nation : south korea
@@ -7,8 +8,9 @@
 ### email : ehdwns46@naver.com
 ### day of production : 2017.05.15~ 2016.06.21
 
-<br/><br/>
+<br/>
 
+<hr/>
 ## Raspberry Pi 3 를 이용한 Embedded Project
 ## OS : Rasbian Linux
 ## Node js Server + Android App 을 통한 스마트 금고 제어
