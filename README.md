@@ -1,5 +1,8 @@
 # Javascript wiring-pi Api 를 이용한 
 # IOT Embedded Smart Lock Project
+
+<hr/>
+
 ## Producer Introduce 
 ### name :  Dongjoonlee
 ### nation : south korea
@@ -108,8 +111,8 @@
 <br/>
 
 ## 총 2대의 카메라 센서로 구성
-## 1.금고외부의 침입자 발생 경우(비밀번호 3회이상 틀렸을 경우) 카메라 센서를 통한 사진촬영
-## 2.사용자가 언제든지 금고의 내부를 카메라센서를 통해 확인가능
+### 1.금고외부의 침입자 발생 경우(비밀번호 3회이상 틀렸을 경우) 카메라 센서를 통한 사진촬영
+### 2.사용자가 언제든지 금고의 내부를 카메라센서를 통해 확인가능
 - 해당 사진 데이터도 Firebase에 저장
 
 ### ![사진](https://github.com/leedongjoon121/IOT_SmartLock/blob/master/Document/img/mobile5.PNG?raw=true)
