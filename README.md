@@ -1,13 +1,13 @@
 # Javascript wiring-pi Api 를 이용한 
 # IOT Embedded Smart Lock Project
 ## Producer Introduce 
-### name :  Dongjoonlee 
+### name :  Dongjoonlee
 ### nation : south korea
 ### date of birth : 1993.04.06
 ### univ : gachon university
 ### email : ehdwns46@naver.com
 ### day of production : 2017.05.15~ 2016.06.21
-
+### coworker : SeungJoolee 
 <br/>
 
 <hr/>
@@ -60,6 +60,18 @@
 
 ## Firebase  Activity Diagram
 ### ![사진](https://github.com/leedongjoon121/IOT_SmartLock/blob/master/Document/img/activity_cloud.PNG?raw=true)
+
+
+<br/>
+
+## 모바일 - 메인메뉴
+```
+1. 금고 잠금/해제
+2. 금고 탐지값 확인
+3. 차트
+4. 
+```
+### ![사진](https://github.com/leedongjoon121/IOT_SmartLock/blob/master/Document/img/mobile1.PNG?raw=true)
 
 
 
