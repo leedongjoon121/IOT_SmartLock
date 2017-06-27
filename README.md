@@ -9,7 +9,7 @@
 ### date of birth : 1993.04.06
 ### univ : gachon university
 ### email : ehdwns46@naver.com
-### day of production : 2017.05.15~ 2016.06.21
+### day of production : 2017.05.15~ 2017.06.21
 
 <br/>
 
