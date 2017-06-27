@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "69610193598",
+    "firebase_url": "https://raspberry-1bf24.firebaseio.com",
+    "project_id": "raspberry-1bf24",
+    "storage_bucket": "raspberry-1bf24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69610193598:android:efe63e550a958992",
+        "android_client_info": {
+          "package_name": "com.raspberry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69610193598-30831jv0r44hhjtdf28ibbosfbkructg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb1HQDRxsWGXwafe3KvcY3W_1Pba_Xx8s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69610193598:android:6f61d82b54e45c5d",
+        "android_client_info": {
+          "package_name": "com.raspberry.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69610193598-30831jv0r44hhjtdf28ibbosfbkructg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb1HQDRxsWGXwafe3KvcY3W_1Pba_Xx8s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

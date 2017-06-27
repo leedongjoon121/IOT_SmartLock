@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_https_white_24dp"
+            android:title="금고 잠금/해제" />
+        <item
+            android:id="@+id/nav_detect"
+            android:icon="@drawable/ic_videocam_white_24dp"
+            android:title="금고 탐지 값 확인" />
+        <item
+            android:id="@+id/nav_chart"
+            android:icon="@drawable/ic_show_chart_white_24dp"
+            android:title="차트" />
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="카메라" />
+        <item
+            android:id="@+id/nav_de"
+            android:icon="@drawable/ic_alarm_white_24dp"
+            android:title="특수상황 확인" />
+
+        <item
+            android:id="@+id/nav_regist"
+            android:icon="@drawable/ic_playlist_add_white_24dp"
+            android:title="금고 일련번호 등록" />
+        <item
+            android:id="@+id/nav_passwdChange"
+            android:icon="@drawable/ic_autorenew_white_24dp"
+            android:title="금고 비밀번호 변경" />
+        <item
+            android:id="@+id/nav_registList"
+            android:icon="@drawable/ic_list_white_24dp"
+            android:title="금고 등록 확인" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_cached_white_24dp"
+            android:title="사용자 비밀번호 변경" />
+
+    </group>
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_exit_to_app_white_24dp"
+        android:title="로그아웃" />
+
+</menu>
