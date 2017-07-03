@@ -1,9 +1,6 @@
 {
   "project_info": {
-    "project_number": "69610193598",
-    "firebase_url": "https://raspberry-1bf24.firebaseio.com",
-    "project_id": "raspberry-1bf24",
-    "storage_bucket": "raspberry-1bf24.appspot.com"
+  // 내부 키값은 Firebase로 부터 할당 받는다.(보안유지상 제외하였음)
   },
   "client": [
     {
