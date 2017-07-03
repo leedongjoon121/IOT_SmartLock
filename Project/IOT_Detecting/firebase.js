@@ -1,11 +1,6 @@
 var firebase = require('firebase');
 var config = {
- apiKey: "AIzaSyCEbJoCg4NCbo3SQrpdAdjXJ1bF1zzliV8",
- authDomain: "raspberry-1bf24.firebaseapp.com",
- databaseURL: "https://raspberry-1bf24.firebaseio.com",
- projectId: "raspberry-1bf24",
- storageBucket: "raspberry-1bf24.appspot.com",
- messagingSenderId: "69610193598"
+  // 내부 키값은 Firebase로 부터 할당 받는다.(보안유지상 제외하였음)
 };
 
 firebase.initializeApp(config);
